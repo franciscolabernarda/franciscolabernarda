@@ -1,0 +1,4 @@
+- 👋 ola meu nome é @franciscolabernarda
+- 👀 meu email de contato é francisco.labernarda@escola.pr.gov.br
+- 🌱 eu estou interessado em ... aprender programar novas linguagens
+- 💞️ estou aprendendo a programar resentemente a linguagem  de javascript e scratch
